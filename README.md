@@ -19,5 +19,4 @@ provided a rough wireframe to be guidelines for your layout. Once the layout
 is made feel free to add more padding, colors, and stylings to your page to make
 the form how you want it to look.
 
-[CSS Layout Wireframe]:
-https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Module-Solo-Prep-Work/assets/css-layout-wireframe.png
+[CSS Layout Wireframe]: https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Module-Solo-Prep-Work/assets/css-layout-wireframe.png
